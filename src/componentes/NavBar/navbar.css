@@ -116,7 +116,7 @@
         font-size: 24px;
         font-weight: bold;
         font-style: oblique;
-        display: block; }
+        display: flex; }
         .Menu .listaMenu li {
           display: inline-block;
           margin-right: 24px;

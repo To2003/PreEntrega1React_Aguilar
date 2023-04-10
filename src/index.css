@@ -17,11 +17,6 @@ ul {
   list-style-type: none;
 }
 
-img {
-  width: 100%;
-  height: auto;
-}
-
 .contenedor {
   width: calc(100% - 32px);
   max-width: 1080px;
